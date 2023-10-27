@@ -43,7 +43,7 @@
           &kp TAB             &kp Q     &kp W     &kp E     &kp R   &kp T            &kp LEFT_PARENTHESIS                                                                           &kp RIGHT_PARENTHESIS   &kp Y   &kp U      &kp I    &kp O     &kp P   &kp BSLH
           &kp ESC             &kp A     &kp S     &kp D     &kp F   &kp G                &kp LEFT_BRACKET       &kp HOME          &kp LALT                  &kp RIGHT_ALT  &kp END      &kp RIGHT_BRACKET   &kp H   &kp J      &kp K    &kp L  &kp SEMI    &kp SQT
         &kp LSHFT             &kp Z     &kp X     &kp C     &kp V   &kp B                                                     &kp CAPSLOCK                       &kp HOME                                   &kp N   &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT
- &kp LEFT_CONTROL  &kp LEFT_COMMAND  &kp CAPS  &kp LEFT  &kp DOWN                               &kp SPACE  &kp BACKSPACE  &kp LEFT_COMMAND                      &kp LS(A)  &kp TAB              &kp ENTER          &kp UP  &kp RIGHT    &mo 1     &none      &mo 2
+ &kp LEFT_CONTROL  &kp LEFT_COMMAND  &kp CAPS  &kp LEFT  &kp DOWN                               &kp SPACE  &kp BACKSPACE  &kp LEFT_COMMAND                      &kp LC(A)  &kp TAB              &kp ENTER          &kp UP  &kp RIGHT    &mo 1     &none      &mo 2
             >;
         };
 
